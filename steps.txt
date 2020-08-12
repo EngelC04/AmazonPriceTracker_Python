@@ -1,0 +1,5 @@
+step 1. Run the browser
+step 2. go to amazon website
+step 3. look for our items links(scraps)
+step 4. put to search bar name of items we area looking (ps4, xbox 360, etc)
+step 5. Go through multiple pages (scrape the whole product on the list) 
